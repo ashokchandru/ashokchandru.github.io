@@ -18,4 +18,4 @@ Experience in Office 365, OneDrive, iCloud, Google Drive, and Dropbox.
 Strong editor with Quality Control experience in investment banks.
 Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)
