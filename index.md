@@ -1,4 +1,4 @@
-_Welcome to my profile page
+###_Welcome to my profile page_
 
 # Experience
 Experience in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products.\
@@ -16,6 +16,6 @@ Trained in HTML, CSS, and Bootstrap.\
 Basic working knowledge in JavaScript.\
 Experience in Office 365, OneDrive, iCloud, Google Drive, and Dropbox.\
 Strong editor with Quality Control experience in investment banks.\
-Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS.\
+Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS.
 
 For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)
