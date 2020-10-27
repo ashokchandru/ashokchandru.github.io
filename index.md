@@ -1,5 +1,4 @@
 _Welcome to my profile page!_
-![Banner](https://github.com/ashokchandru/ashokchandru.github.io/blob/main/banner.jpg)
 
 # Overview
 _Technical Writer Advisor passionate about networking and cybersecurity
