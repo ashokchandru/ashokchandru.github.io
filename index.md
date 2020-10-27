@@ -1,4 +1,4 @@
-## _Welcome to my profile page!_ :slightly_smiling_face:
+## _Welcome to my profile page!_:slightly_smiling_face:
 ![banner](/images/banner.jpg)
 # Overview
 * _Technical Writer Advisor passionate about networking and cybersecurity._
