@@ -4,7 +4,7 @@
 * _Technical Writer Advisor passionate about networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
 * _Experienced in creating HTML help, Product Manuals, Release Notes, Quick Start Guides, Getting Started Guides, White Papers, Install Cards, etc._
-* _Good woking knowledge of Agile methodology and worked in scrum, Kanban, and Scaled-Agile Framework (SAFe)._
+* _Good working knowledge of Agile methodology and worked in scrum, Kanban, and Scaled-Agile Framework (SAFe)._
 * _Experience in migration of content from CHM to PDF and PDF to Context-Sensitive Help (CSH) model._
 * _Took part in transition of authoring environment from Adobe FrameMaker to Madcap Flare._
 * _Experience in implementing Git-based CMS (Managed Gitlab)._
