@@ -1,6 +1,7 @@
 _Welcome to my profile page!_
+![Banner](https://raw.github.com/ashokchandru/ashokchandru/ashokchandru.github.io)
 
-# Bio
+# Overview
 _Technical Writer Advisor passionate about networking and cybersecurity
 Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products.\
 Experienced in creating HTML help, Product Manuals, Release Notes, Quick Start Guides, Getting Started Guides, White Papers, Install Cards, etc.\
