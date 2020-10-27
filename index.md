@@ -1,5 +1,5 @@
 ## _Welcome to my profile page!_
-![banner](/images/banner.jpg)
+![banner](/images/profile.jpg)
 # Overview
 * _Technical Writer Advisor passionate about networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
