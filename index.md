@@ -1,6 +1,5 @@
 ## _Welcome to my profile page!_
 ![banner](/images/profile.jpg)
-# Overview
 _I am passionate about writing and I am passionate about the tech industry. Here is a little background about my work experience:_
 * _Technical Writer Advisor passionate about networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
