@@ -20,3 +20,4 @@
 * _Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS._
 
 For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)
+![Resume](/Ashok Kumar.docx)
