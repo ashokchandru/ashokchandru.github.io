@@ -1,7 +1,7 @@
 ## _Welcome to my profile page!_
 ![banner](/images/profile.jpg)
 _I am passionate about writing and about the tech industry. Here is a little background of my professional experience:_
-* _Technical Writer Advisor passionate about networking and cybersecurity._
+* _Technical Writer Advisor in networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
 * _Experienced in creating HTML help, Product Manuals, Release Notes, Quick Start Guides, Getting Started Guides, White Papers, Install Cards, etc._
 * _Good working knowledge of Agile methodology and worked in scrum, Kanban, and Scaled-Agile Framework (SAFe)._
