@@ -1,6 +1,6 @@
 ## _Welcome to my profile page!_
 _I am passionate about writing and about the tech industry. Here is a little background of my professional experience:_
-![banner](/images/profile.jpg)
+
 * _Technical Writer Advisor in networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
 * _Experienced in creating HTML help, Product Manuals, Release Notes, Quick Start Guides, Getting Started Guides, White Papers, Install Cards, etc._
@@ -18,6 +18,6 @@ _I am passionate about writing and about the tech industry. Here is a little bac
 * _Experienced in Office 365, OneDrive, iCloud, Google Drive, and Dropbox._
 * _Strong editor with Quality Control experience in investment banks._
 * _Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS._
-
+![banner](/images/profile.jpg)
 For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)\
 contact me at ashokchandru@gmail.com
