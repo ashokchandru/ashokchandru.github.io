@@ -1,5 +1,5 @@
 ## _Welcome to my profile page!_
-_I am passionate about writing and about the tech industry. Here is a little background of my professional experience:_
+_I am a technical writer advisor working in cybersecurity industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a parttime organic farmer. Here is a little background of my professional experience:_
 
 * _Technical Writer Advisor in networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
