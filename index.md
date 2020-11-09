@@ -1,7 +1,7 @@
 ## _Welcome to my profile page!_
-_I am a technical writer advisor working in cybersecurity industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a parttime organic farmer. Here is a little background of my professional experience:_
+_I am a technical writer advisor working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a parttime organic farmer. Here is a little background of my professional experience:_
 
-* _Technical Writer Advisor in networking and cybersecurity._
+* _Technical Writer working in networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of cybersecurity, backup, and network products._
 * _Experienced in creating HTML help, Product Manuals, Release Notes, Quick Start Guides, Getting Started Guides, White Papers, Install Cards, etc._
 * _Good working knowledge of Agile methodology and worked in scrum, Kanban, and Scaled-Agile Framework (SAFe)._
@@ -21,3 +21,4 @@ _I am a technical writer advisor working in cybersecurity industry. I am passion
 ![banner](/images/profile.jpg)
 For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)\
 contact me at ashokchandru@gmail.com
+This page was created in Github and Markdown language.
