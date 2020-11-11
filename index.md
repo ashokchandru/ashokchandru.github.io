@@ -21,4 +21,4 @@ _I am a technical writer advisor working in software industry. I am passionate a
 ![banner](/images/profile.jpg)
 For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)\
 contact me at ashokchandru@gmail.com
-This page was created in Github using Markdown language.
+\This page was created in Github using Markdown language.
