@@ -1,4 +1,4 @@
-## _Welcome to my profile page!_
+## _Welcome to my GitHub page!_
 _I am a technical writer advisor working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a parttime organic farmer. Here is a little background of my professional experience:_
 
 * _Technical Writer working in networking and cybersecurity._
@@ -21,4 +21,4 @@ _I am a technical writer advisor working in software industry. I am passionate a
 ![banner](/images/profile.jpg)
 For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)\
 contact me at ashokchandru@gmail.com\
-This page was created in Github using Markdown language
+This page was created in Github using Markdown.
