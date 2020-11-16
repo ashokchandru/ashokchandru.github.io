@@ -19,10 +19,11 @@ _I am a technical writer advisor working in software industry. I am passionate a
 * _Strong editor with Quality Control experience in investment banks._
 * _Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS._
 ![banner](/images/profile.jpg)
-For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)\
-contact me at ashokchandru@gmail.com\
-This page was created in Github using Markdown.\
-###_Some useful links:_\
+##### _I believe in adapting to the trend. Here are some useful links:_
 https://www.freeformatter.com/ A formatting page for your code\
 https://stackedit.io/ In-browser Markdown editor\
-https://codepen.io/ Online portfolio site for HTML, CSS, and JavaScript code
+https://codepen.io/ Online portfolio site for HTML, CSS, and JavaScript code\
+\
+For full details, Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)\
+contact me at ashokchandru@gmail.com\
+This page was created in Github using Markdown.
