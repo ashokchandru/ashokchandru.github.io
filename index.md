@@ -20,7 +20,7 @@ _I am a technical writer advisor working in software industry. I am passionate a
 * _Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS._
 ![banner](/images/profile.jpg)
 ##### _I believe in adapting to the trend. Here are some useful links to help you with that:_
-[Free Formatter](https://www.freeformatter.com/) _A formatting page for your code_\
+[Free Formatter](https://www.freeformatter.com/) _A formatting tool for your code_\
 [SlackEdit](https://stackedit.io/) _In-browser Markdown editor_\
 [Codepen](https://codepen.io/) _Online portfolio site for HTML, CSS, and JavaScript code_\
 \
