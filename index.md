@@ -1,5 +1,5 @@
 ## _Welcome to my GitHub page!_
-_I am a technical writer advisor working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a part-time organic farmer. Here is a little background of my professional experience:_
+_I am a technical writing advisor working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a part-time organic farmer. Here is a little background of my professional experience:_
 
 * _Technical Writer working in networking and cybersecurity._
 * _Experienced in creation and maintenance of technical documentation for a variety of security, backup, and network products._
