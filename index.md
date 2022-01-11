@@ -19,7 +19,7 @@ _I am a technical writing advisor working in software industry. I am passionate 
 * _Strong editor with Quality Control experience in investment banks._
 * _Good functional knowledge in different operating systems including Windows 10, Ubuntu Linux, and macOS._
 ![banner](/images/profile.jpg)
-##### _I believe in adapting to the trend. Here are some useful links to help you with that:_
+##### _Here is a list some useful tools to help you with technical writing:_
 [Free Formatter](https://www.freeformatter.com/) _A formatting tool for your code_\
 [SlackEdit](https://stackedit.io/) _In-browser Markdown editor_\
 [Codepen](https://codepen.io/) _Online portfolio site for HTML, CSS, and JavaScript code_\
