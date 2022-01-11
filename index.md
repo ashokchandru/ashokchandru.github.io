@@ -7,7 +7,7 @@ _I am a technical writing advisor working in software industry. I am passionate 
 * _Good working knowledge of Agile methodology and worked in scrum, Kanban, and Scaled-Agile Framework (SAFe)._
 * _Experience in migration of content from CHM to PDF and PDF to Context-Sensitive Help (CSH) model._
 * _Took part in transition of authoring environment from Adobe FrameMaker to Madcap Flare._
-* _Experience in implementing Git-based CMS (Managed Gitlab)._
+* _Experience in implementing Git-based CMS (Gitlab)._
 * _Exposure to different CMS and authoring tools (Vasont, Perforce, XMetal, Confluence, Salesforce, Adobe FrameMaker, Gitlab, Madcap Flare)._
 * _Converted content from videos to text and text to videos (Camtasia, Brightcove)._
 * _Cross platform testing on Windows, macOS, iOS, and Android devices._
