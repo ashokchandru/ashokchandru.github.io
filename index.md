@@ -32,4 +32,4 @@ _I write about content management systems and open source projects at [ashokchan
 [Codepen](https://codepen.io/) _Online portfolio site for HTML, CSS, and JavaScript code_\
 
 
-This page was created in Github using Markdown.
+_This page was created in Github using Markdown._
