@@ -1,5 +1,5 @@
 ## _Welcome to my GitHub page!_
-_Hi, thank you for visiting my profile page. I am a senior technical writing working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a part-time organic farmer. Here is a little background of my professional experience:_
+_Hi, thank you for visiting my profile page. I am a senior technical writing working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a part-time organic farmer. Here is a little background on my professional experience:_
 
 _Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)_ \
 
