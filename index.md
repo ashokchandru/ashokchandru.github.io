@@ -1,7 +1,7 @@
 ## _Welcome to my GitHub page!_
 _Hi, thank you for visiting my profile page. I am a senior technical writing working in software industry. I am passionate about writing and about the tech industry. I enjoy driving and photography. I am a part-time organic farmer. Here is a little background on my professional experience:_
 
-_Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)_ \
+_Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)_
 
 _I write about content management systems and open source projects at [ashokchandru.com](https://www.ashokchandru.com). If you would like to collaborate, drop me an email._
 
@@ -24,7 +24,7 @@ _I write about content management systems and open source projects at [ashokchan
 * _Experienced in Office 365, OneDrive, Google Drive, and Dropbox._
 * _Good functional knowledge in different operating systems including Windows 11, Ubuntu Linux, Almalinux, and macOS._
 
-_If you think my skillsets match a good job opportunity, you can contact me at ashokchandru@gmail.com_
+_If you think my skillsets match a good job opportunity, you can contact me at <ashokchandru@gmail.com>_
 
 ![banner](/images/profile.jpg)
 ###### _Here is a list of tools I find useful when I code:_
