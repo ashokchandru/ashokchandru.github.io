@@ -7,7 +7,7 @@ _Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)_
 
 _I write about content management systems and open source projects at [ashokchandru.com](https://www.ashokchandru.com). If you would like to collaborate, drop me an email._
 
-_Throughout my career at Oracle, Genesys, HPE, SonicWall, and Symantec, I’ve contributed to projects that required close collaboration with engineering, product management groups, and support teams. I take pride in leading documentation efforts that align with Agile and DevOps practices, ensuring timely, accurate, and scalable results._
+_Throughout my career at Oracle, Hewlett-Packard Enterprise (HPE), SonicWall, and Symantec, I’ve contributed to projects that required close collaboration with engineering, product management groups, and support teams. I take pride in leading documentation efforts that align with Agile and DevOps practices, ensuring timely, accurate, and scalable results._
 
 _I spent the past decade working in a broad range of authoring and content management tools, including MadCap Flare, Adobe FrameMaker, SDL (RWS Tridion), Vasont, Oxygen XML Editor,and XMetaL. I have working knowledge in Postman and Swagger for API documentation and testing, as well as collaboration platforms such as Confluence, Jira, GitLab, and GitHub. Python and JavaScript are my favorite programming languages!_
 
