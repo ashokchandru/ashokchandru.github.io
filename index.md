@@ -1,17 +1,17 @@
 ## _Welcome to my GitHub page!_
 _Welcome to my profile! I’m passionate about technical documentation, artificial intelligence, and open-source technologies, especially where they intersect to create smarter, more efficient ways to share knowledge._
 
-_As an expert in Technical Writing, I bring a strong background across enterprise, networking, cybersecurity, and financial software domains. I focus on delivering clear, consistent, and high-impact content — from developer and API documentation to product manuals, release notes and knowledge base resources — that supports both developers and endusers._
+_As an expert in Technical Writing, I bring a strong background across enterprise, networking, cybersecurity, and financial software domains. I focus on delivering clear, consistent, and high-impact content, from API documentation to product manuals, release notes and knowledge base resources._
 
 _Check out my [Linkedin profile](https://www.linkedin.com/in/ashokchandru/)_
 
-_I write about content management systems and open source projects at [ashokchandru.com](https://www.ashokchandru.com). If you would like to collaborate, drop me an email._
+_I write about content management systems and open source software at [ashokchandru.com](https://www.ashokchandru.com). If you would like to collaborate, drop me an email._
 
-_Throughout my career at Oracle, Hewlett-Packard Enterprise (HPE), SonicWall, and Symantec, I’ve contributed to projects that required close collaboration with engineering, product management groups, and support teams. I take pride in leading documentation efforts that align with Agile and DevOps practices, ensuring timely, accurate, and scalable results._
+_Throughout my career at Oracle, Hewlett-Packard Enterprise (HPE), SonicWall, and Symantec, I’ve contributed to projects that required close collaboration with engineering, product management groups, and support teams. I take pride in leading documentation efforts that align with Agile and DevOps practices, ensuring timely, useful, and scalable deliverables._
 
-_I spent the past decade working in a broad range of authoring and content management tools, including MadCap Flare, Adobe FrameMaker, SDL (RWS Tridion), Vasont, Oxygen XML Editor,and XMetaL. I have working knowledge in Postman and Swagger for API documentation and testing, as well as collaboration platforms such as Confluence, Jira, GitLab, and GitHub. Python and JavaScript are my favorite programming languages!_
+_I spent the past decade working in a broad range of authoring and content management tools, including WordPress, MadCap Flare, Adobe FrameMaker, SDL (RWS Tridion), Vasont, Oxygen XML Editor, and XMetaL. I have working knowledge in Postman and Swagger for API documentation and testing, as well as collaboration platforms such as Confluence, Jira, GitLab, and GitHub. Python and JavaScript are my favorite programming languages!_
 
-_I enjoy mentoring junior writers, optimizing documentation workflows, and driving quality improvements based on user feedback and metrics. I’m always interested in opportunities where clear communication, technology, and leadership come together to make a difference._
+_I enjoy mentoring junior writers, optimizing documentation workflows, and driving quality improvements based on user feedback and metrics. I’m always interested in opportunities where clear communication, technology, and leadership come together to make quality progress._
 
 #### Professional Experience ####
 * _Technical Writer specialized in financial software, networking and cybersecurity._
@@ -28,8 +28,8 @@ _I enjoy mentoring junior writers, optimizing documentation workflows, and drivi
 * _Exposure to SDWAN, WAN Optimization, VPN, switches, GMS, on-prem, hardware security, software security, and backup technologies._
 * _Experienced in DITA XML data model._
 * _Trained in HTML, CSS, and Bootstrap._
-* _Basic working knowledge in JavaScript._
-* _Experienced in Office 365, OneDrive, Google Drive, and Dropbox._
+* _Working knowledge in JavaScript._
+* _Experienced in Office suite and UI software Figma & Canva._
 * _Good functional knowledge in different operating systems including Windows 11, Ubuntu Linux, Almalinux, and macOS._
 
 _If you think my skillsets match a good job opportunity, you can contact me at <ashokchandru@gmail.com>_
